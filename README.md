@@ -99,8 +99,19 @@
 **推荐理由：**价格便宜，但整体竞争力一般。
 
 ---
+### 8、云通 ⭐⭐
 
-### 8、鳄鱼机场 ⭐
+**👉 [注册入口](https://yuntong.org/#/register?code=k9XqnY6A)**
+
+* 年付 12 元 月流量 200GB，限速 100Mbps，不限设备
+* 两年付 20 元
+* 每月 200GB
+* 支持 AnyTLS / Hysteria2 协议 · 解锁流媒体及 ChatGPT
+**推荐理由：**价格便宜，还有48小时退款保障。缺点是流量大还不限设备，有滥用限速风险
+
+---
+
+### 9、鳄鱼机场 ⭐
 
 **👉 [注册入口](https://github.com/jichang007/paolujichang/issues/2)**
 
@@ -170,7 +181,7 @@
 如果预算只有 **1～2 元/月**：
 
 * **综合推荐：NanoCloud、Phantom**
-* **长期最划算：Kitty Network、Matcha Network**
+* **长期最划算：Kitty Network、Matcha Network、云通**
 * **老牌稳定：飞鸟云**
 * **下载需求：赔钱机场**
 * **线路体验更好：速界**
@@ -181,7 +192,8 @@
 ---
 
 ## 重大更新记录
-
+* **2026-06-27**
+* 增加云通机场
 * **2026-06-27**
 
   * 新增 NanoCloud、Phantom、Kitty Network、Matcha Network、赔钱机场、杜卡迪等低价机场。
