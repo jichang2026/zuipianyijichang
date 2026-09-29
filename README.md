@@ -90,7 +90,7 @@
 
 ### 7、Fscloud ⭐⭐
 
-**👉 [注册入口](https://dukadi.info/#/register?code=2k4lxXBN)**
+**👉 [注册入口](https://dash.fscloud.cc/#/register?code=sfO4qU2Z)**
 
 * 年付 13 元每月100G
 * 注册即送3G在3天内有效
@@ -99,15 +99,15 @@
 **推荐理由：**23年就成立了，有试用，价格便宜，就是担心撑不了多久。
 
 ---
-### 8、云通 ⭐⭐
+### 8、一分机场 ⭐⭐
 
-**👉 [注册入口](https://yuntong.org/#/register?code=k9XqnY6A)**
+**👉 [注册入口](https://xn--4gqx1hgtfdmt.com/#/register?code=D58kgeaX)**
 
-* 年付 12 元 月流量 200GB，限速 100Mbps，不限设备
-* 两年付 20 元
-* 每月 200GB
-* 支持 AnyTLS / Hysteria2 协议 · 解锁流媒体及 ChatGPT
-**推荐理由：**价格便宜，还有48小时退款保障。缺点是流量大还不限设备，有滥用限速风险。从网络上检索，该机场疑似关联失信机场-猫耳云。
+* 月付6元 每月流量 1000GB，限15台设备
+* 节日还有促销码， 查看[一分机场优惠促销](https://sites.google.com/view/yifenjichang/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8)
+* 基础套餐是1000GB/月
+* 全线路加密 · 解锁流媒体及 ChatGPT
+**推荐理由：**价格便宜，一般情况网速还行。
 
 ---
 ### 9、牛逼云 ⭐⭐⭐⭐
@@ -176,7 +176,7 @@
 
 ### 速界 ⭐⭐⭐⭐
 
-**👉 [注册入口](https://findnew.tzztssuujj.xyz/#/register?code=0CxBUm0E)**
+**👉 [注册入口](https://trevona.speed-world.cc/#/register?code=0CxBUm0E)**
 
 * 2026 年新兴机场
 * 2 元试用（1GB）
@@ -205,10 +205,10 @@
 * 增加牛逼云机场
 * **2026-08-19**
 
-  * 增加云通机场
-* **2026-06-27**
+  * 增加一分机场
+* **2026-09-29**
 
-  * 新增 NanoCloud、Phantom、Kitty Network、Matcha Network、赔钱机场、杜卡迪等低价机场。
+  * 新增 NanoCloud、Phantom、Kitty Network、Matcha Network、赔钱机场、一分机场等低价机场。
   * 更新飞鸟云传家宝套餐价格。
   * 新增超低价试用机场（八戒、魔戒、萌云、速界）。
   * 调整推荐等级说明，并补充购买建议。
